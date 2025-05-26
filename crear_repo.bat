@@ -31,6 +31,6 @@ gh repo edit JaimeCamachoDev/%REPO_NAME% ^
 start https://github.com/JaimeCamachoDev/%REPO_NAME%/settings
 
 echo.
-echo 🚀 Repositorio creado y configurado: https://github.com/JaimeCamachoDev/%REPO_NAME%
-echo 🛠 Abriendo configuración para desactivar Packages y Deployments.
+echo  Repositorio creado y configurado: https://github.com/JaimeCamachoDev/%REPO_NAME%
+echo  Abriendo configuración para desactivar Packages y Deployments.
 pause
